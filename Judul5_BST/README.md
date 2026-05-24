@@ -73,6 +73,7 @@ memilih menu 4. Perintah break di dalam kode langsung memotong perulangan menu, 
 
 
 ini ada link video demonstrasinya :
+https://youtu.be/Hm6Bdcl7epE
 
 
 
